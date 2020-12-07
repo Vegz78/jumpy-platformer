@@ -28,7 +28,8 @@ BTN_A=30
 BTN_B=44
 BTN_RESET=16
 BTN_EXIT=17
-BTN_MENU=18```
+BTN_MENU=18
+```
 
 Double check by running ```evtest``` which /dev/input/event# number your keyboard is connected to. If not #7, edit the first line to the correct number.
 
