@@ -19,7 +19,8 @@ Execute from the Linux text console, not inside an X Window environment.
 
 ## Getting controller or keyboard to work
 Make a folder and and file /sd/arcade.cfg with the following contents(for keyboard):
-```SCAN_CODES=/dev/input/event7
+```
+SCAN_CODES=/dev/input/event7
 BTN_LEFT=105
 BTN_RIGHT=106
 BTN_UP=103
