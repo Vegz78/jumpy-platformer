@@ -11,7 +11,7 @@ Any help on solving or speeding up the solution for this issue from the communit
 
 
 ## Download ELF Linux ARM executable (Raspberry Pis)
-Dowload [the precompiled ELF file above](https://github.com/Vegz78/jumpy-platformer-ELF-test/blob/master/arcade-jumpy-platformer.elf), or compile and download it yourself in your own browser here:
+Dowload [the precompiled ELF file above](https://github.com/Vegz78/jumpy-platformer-ELF-test/raw/master/arcade-jumpy-platformer.elf), or compile and download it yourself in your own browser here:
 https://arcade.makecode.com/#pub:75452-06863-77183-79875?hw=rpi&compile=rawELF
 
 Execute from the Linux text console, not inside an X Window environment.
