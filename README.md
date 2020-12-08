@@ -26,7 +26,7 @@ From RetroPie:<BR>
 ## Getting controller or keyboard to work
 Make a folder and and file /sd/arcade.cfg with the following contents(for keyboard):
 ```
-SCAN_CODES=/dev/input/event7
+SCAN_CODES=/dev/input/event0
 BTN_LEFT=105
 BTN_RIGHT=106
 BTN_UP=103
@@ -38,7 +38,7 @@ BTN_EXIT=17
 BTN_MENU=18
 ```
 
-Double check by running ```evtest``` which /dev/input/event# number your keyboard is connected to. If not #7, edit the first line to the correct number.
+Double check by running ```evtest``` which /dev/input/event# number your keyboard is connected to. If not #0, edit the first line to the correct number.
 
 For a game pad, it's the same procedure, where you have to have the game pad's event number in the first line and using the correct key codes from ```evtest``` for the controller buttons you want to bind in arcade.cfg.
 
