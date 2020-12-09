@@ -6,7 +6,7 @@ https://arcade.makecode.com/#pub:75452-06863-77183-79875?hw=rpi&compile=rawELF
 
 Or, for any other MakeCode Arcade game that you have made or found, open it up in the online editor and add ```?hw=rpi&compile=rawELF``` to the end of the URL in the editor, so it looks like this:<BR>
 ```https://arcade.makecode.com/#editor?hw=rpi&compile=rawELF```<BR>
-Press the orange downlad button on the bottom left of the screen to download your game ELF executable file.
+Press enter, let the page reload and then press the orange downlad button on the bottom left of the screen to download your game ELF executable file.
 
 Execute from the Linux text console with command ```./arcade-jumpy-platformer.elf```, **not inside an X Window environment**. Make sure its's executable first(```chmod +x```).
 
