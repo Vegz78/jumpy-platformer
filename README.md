@@ -1,3 +1,4 @@
+## MakeCode Arcade games in RetroPie
 ![alt text](https://github.com/Vegz78/jumpy-platformer-ELF-test/blob/master/assets/MakeCode_Arcade_RetroPie.gif)
 ## Download ELF Linux ARM executable game(Raspberry Pis)
 Dowload [the precompiled ELF game file above](https://github.com/Vegz78/jumpy-platformer-ELF-test/raw/master/arcade-jumpy-platformer.elf), or compile and download it yourself in your own browser here:
@@ -11,7 +12,7 @@ Press the orange downlad button on the bottom left of the screen to download you
 Execute from the Linux text console with command ```./arcade-jumpy-platformer.elf```, **not inside an X Window environment**. Make sure its's executable first(```chmod +x```).
 
 ## NB! MakeCode Arcade games ELF executables freeze on exit
-This is a minor bug which prevents using MakeCode Arcade games as ELF executables on the Raspberry Pis from being as smooth as it could be, with for instance full RetroPie integration only using a gamepad etc. 
+This is a minor bug which prevents the running of the MakeCode Arcade games on the Raspberry Pi as ELF executables from being as smooth as it could be, with for instance full integration of MakeCode Arcade games in RetroPie, only using a gamepad etc. 
 
 [Microsoft is currently looking for takers on trying to diagnose this](https://forum.makecode.com/t/how-to-launch-makecode-arcade-uf2s-in-raspbian-retropie/2725/22) and we can only hope that the skilled, but ever busy, MakeCode team will get a chance to address this issue some time in the future:
 https://github.com/microsoft/pxt-arcade/issues/2435
