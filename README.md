@@ -1,5 +1,15 @@
+## *** This repository is archived and replaced ***
+I finally found a working solution, please see:<br>
+https://github.com/Vegz78/McAirpos
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ## MakeCode Arcade games in RetroPie
 ![alt text](https://github.com/Vegz78/jumpy-platformer-ELF-test/blob/master/assets/MakeCode_Arcade_RetroPie.gif)
+
 ## Download natively executable MakeCode Arcade games on the Raspberry Pi
 Dowload [the precompiled ELF game file above](https://github.com/Vegz78/jumpy-platformer-ELF-test/raw/master/arcade-jumpy-platformer.elf), or compile and download it yourself in your own browser here:
 https://arcade.makecode.com/#pub:75452-06863-77183-79875?hw=rpi&compile=rawELF
